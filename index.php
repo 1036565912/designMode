@@ -5,7 +5,7 @@
 define('BASE_PATH',__DIR__);
 require_once 'Helper/Loader.php';
 Helper\Loader::autoload(); //自动加载方法
-use Helper\UtlHelper;
+
 
 
 
